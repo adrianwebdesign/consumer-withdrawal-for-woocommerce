@@ -85,7 +85,7 @@ Customers can choose which products they wish to withdraw before submitting the 
 ## 3. Customer confirmation email
 
 <p align="center">
-<img src="assets/Screenshot-3.png" width="900">
+<img src="assets/Screenshot-3.png" width="600">
 </p>
 
 Automatic confirmation email sent immediately after the withdrawal request has been submitted.
@@ -95,7 +95,7 @@ Automatic confirmation email sent immediately after the withdrawal request has b
 ## 4. Administrator notification
 
 <p align="center">
-<img src="assets/Screenshot-4.png" width="900">
+<img src="assets/Screenshot-4.png" width="600">
 </p>
 
 The administrator receives a notification containing the customer details and selected products.
@@ -105,7 +105,7 @@ The administrator receives a notification containing the customer details and se
 ## 5. Manage withdrawal request
 
 <p align="center">
-<img src="assets/Screenshot-5.png" width="900">
+<img src="assets/Screenshot-5.png" width="600">
 </p>
 
 Withdrawal requests can be managed directly from the WooCommerce order page.
