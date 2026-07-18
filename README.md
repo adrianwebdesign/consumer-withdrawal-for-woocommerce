@@ -2,7 +2,7 @@
 
 <p align="center">
 
-<img src="assets/banner-1544x500.png" alt="Consumer Withdrawal for WooCommerce">
+<img src="banner-1544x500.png" alt="Consumer Withdrawal for WooCommerce">
 
 </p>
 
