@@ -43,7 +43,7 @@ A lightweight WooCommerce plugin that helps online stores comply with the new EU
 
 ## 1. Withdrawal button inside WooCommerce Orders
 
-![Screenshot 1](assets/screenshot-1.png)
+![Screenshot 1](assets/Screenshot-1.png)
 
 The withdrawal button is automatically displayed for eligible orders.
 
@@ -51,7 +51,7 @@ The withdrawal button is automatically displayed for eligible orders.
 
 ## 2. Withdrawal request modal
 
-![Screenshot 2](assets/screenshot-2.png)
+![Screenshot 2](assets/Screenshot-2.png)
 
 Customers can select the products they want to withdraw before submitting the request.
 
@@ -59,7 +59,7 @@ Customers can select the products they want to withdraw before submitting the re
 
 ## 3. Customer confirmation email
 
-![Screenshot 3](assets/screenshot-3.png)
+![Screenshot 3](assets/Screenshot-3.png)
 
 Automatic confirmation email sent immediately after the request has been submitted.
 
@@ -67,7 +67,7 @@ Automatic confirmation email sent immediately after the request has been submitt
 
 ## 4. Administrator notification
 
-![Screenshot 4](assets/screenshot-4.png)
+![Screenshot 4](assets/Screenshot-4.png)
 
 Store administrators receive a detailed notification containing customer information and selected products.
 
@@ -75,7 +75,7 @@ Store administrators receive a detailed notification containing customer informa
 
 ## 5. Manage withdrawal request
 
-![Screenshot 5](assets/screenshot-5.png)
+![Screenshot 5](assets/Screenshot-5.png)
 
 Withdrawal requests can be reviewed directly inside the WooCommerce order page.
 
@@ -83,7 +83,7 @@ Withdrawal requests can be reviewed directly inside the WooCommerce order page.
 
 ## 6. Withdrawal requests dashboard
 
-![Screenshot 6](assets/screenshot-6.png)
+![Screenshot 6](assets/Screenshot-6.png)
 
 Dedicated administration page for viewing and managing all withdrawal requests.
 
