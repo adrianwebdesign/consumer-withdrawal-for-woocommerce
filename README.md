@@ -65,7 +65,7 @@ Consumer Withdrawal for WooCommerce allows store owners to implement this functi
 ## 1. Withdrawal button inside WooCommerce Orders
 
 <p align="center">
-<img src="assets/screenshot-1.png" width="900">
+<img src="assets/Screenshot-1.png" width="900">
 </p>
 
 The withdrawal button is automatically displayed for eligible WooCommerce orders.
@@ -75,7 +75,7 @@ The withdrawal button is automatically displayed for eligible WooCommerce orders
 ## 2. Withdrawal request modal
 
 <p align="center">
-<img src="assets/screenshot-2.png" width="900">
+<img src="assets/Screenshot-2.png" width="900">
 </p>
 
 Customers can choose which products they wish to withdraw before submitting the request.
@@ -85,7 +85,7 @@ Customers can choose which products they wish to withdraw before submitting the 
 ## 3. Customer confirmation email
 
 <p align="center">
-<img src="assets/screenshot-3.png" width="900">
+<img src="assets/Screenshot-3.png" width="900">
 </p>
 
 Automatic confirmation email sent immediately after the withdrawal request has been submitted.
@@ -95,7 +95,7 @@ Automatic confirmation email sent immediately after the withdrawal request has b
 ## 4. Administrator notification
 
 <p align="center">
-<img src="assets/screenshot-4.png" width="900">
+<img src="assets/Screenshot-4.png" width="900">
 </p>
 
 The administrator receives a notification containing the customer details and selected products.
@@ -105,7 +105,7 @@ The administrator receives a notification containing the customer details and se
 ## 5. Manage withdrawal request
 
 <p align="center">
-<img src="assets/screenshot-5.png" width="900">
+<img src="assets/Screenshot-5.png" width="900">
 </p>
 
 Withdrawal requests can be managed directly from the WooCommerce order page.
@@ -115,7 +115,7 @@ Withdrawal requests can be managed directly from the WooCommerce order page.
 ## 6. Withdrawal requests dashboard
 
 <p align="center">
-<img src="assets/screenshot-6.png" width="900">
+<img src="assets/Screenshot-6.png" width="900">
 </p>
 
 Dedicated administration page for viewing and managing all withdrawal requests.
