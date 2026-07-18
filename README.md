@@ -65,7 +65,7 @@ Consumer Withdrawal for WooCommerce allows store owners to implement this functi
 ## 1. Withdrawal button inside WooCommerce Orders
 
 <p align="center">
-<img src="assets/Screenshot-1.png" width="900">
+<img src="assets/Screenshot-1.png" width="600">
 </p>
 
 The withdrawal button is automatically displayed for eligible WooCommerce orders.
@@ -75,7 +75,7 @@ The withdrawal button is automatically displayed for eligible WooCommerce orders
 ## 2. Withdrawal request modal
 
 <p align="center">
-<img src="assets/Screenshot-2.png" width="900">
+<img src="assets/Screenshot-2.png" width="600">
 </p>
 
 Customers can choose which products they wish to withdraw before submitting the request.
