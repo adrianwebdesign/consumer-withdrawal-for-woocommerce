@@ -1,95 +1,128 @@
 # Consumer Withdrawal for WooCommerce
 
 <p align="center">
+  <img src="banner-1544x500.jpg" alt="Consumer Withdrawal for WooCommerce">
+</p>
 
-<img src="banner-1544x500.jpg" alt="Consumer Withdrawal for WooCommerce">
-
+<p align="center">
+A lightweight WooCommerce plugin that helps online stores comply with the European Union withdrawal function requirements by allowing customers to submit withdrawal requests directly from their WooCommerce account.
 </p>
 
 <p align="center">
 
-A lightweight WooCommerce plugin that helps online stores comply with the new EU withdrawal function requirements by allowing customers to submit withdrawal requests directly from their account.
-
-</p>
-
-<p align="center">
-
-![WordPress](https://img.shields.io/badge/WordPress-6.8%2B-blue)
-![WooCommerce](https://img.shields.io/badge/WooCommerce-10%2B-purple)
-![PHP](https://img.shields.io/badge/PHP-7.4%2B-777BB4)
-![License](https://img.shields.io/badge/License-GPL--2.0-green)
-![Version](https://img.shields.io/badge/version-1.0.0-red)
+![WordPress](https://img.shields.io/badge/WordPress-6.8%2B-21759B?style=for-the-badge&logo=wordpress)
+![WooCommerce](https://img.shields.io/badge/WooCommerce-10%2B-96588A?style=for-the-badge&logo=woocommerce)
+![PHP](https://img.shields.io/badge/PHP-7.4%2B-777BB4?style=for-the-badge&logo=php)
+![HPOS](https://img.shields.io/badge/HPOS-Compatible-success?style=for-the-badge)
+![License](https://img.shields.io/badge/License-GPL--2.0-green?style=for-the-badge)
 
 </p>
 
 ---
 
-# ✨ Features
+# Why this plugin?
 
-- Consumer withdrawal button inside **WooCommerce → My Account → Orders**
-- Modern withdrawal request modal
-- Customers can choose which products they wish to withdraw
-- Automatic confirmation email sent to the customer
-- Automatic notification email sent to the administrator
-- Dedicated WooCommerce administration page
-- Withdrawal status management
-- Fully translatable
-- WooCommerce HPOS compatible
-- Lightweight and easy to use
+From **19 June 2026**, European legislation requires online interfaces concluding distance contracts with consumers to provide an online withdrawal function.
+
+Consumer Withdrawal for WooCommerce allows store owners to implement this functionality in a familiar WooCommerce environment without modifying their checkout or customer workflow.
 
 ---
 
-# 📸 Screenshots
+# Key Features
+
+- ✅ Withdrawal button inside **My Account → Orders**
+- ✅ Modern withdrawal request modal
+- ✅ Product selection before submitting the request
+- ✅ Automatic customer confirmation email
+- ✅ Automatic administrator notification
+- ✅ Withdrawal management directly inside WooCommerce orders
+- ✅ Dedicated withdrawal requests dashboard
+- ✅ AJAX powered
+- ✅ Translation ready
+- ✅ WooCommerce HPOS compatible
+- ✅ Lightweight and easy to use
+
+---
+
+# Quick Overview
+
+| Feature | Included |
+|---------|:--------:|
+| Withdrawal Button | ✅ |
+| Product Selection | ✅ |
+| Customer Email | ✅ |
+| Administrator Email | ✅ |
+| Withdrawal Dashboard | ✅ |
+| HPOS Support | ✅ |
+| Translation Ready | ✅ |
+| AJAX | ✅ |
+| Responsive | ✅ |
+
+---
+
+# Screenshots
 
 ## 1. Withdrawal button inside WooCommerce Orders
 
-![Screenshot 1](assets/Screenshot-1.png)
+<p align="center">
+<img src="assets/screenshot-1.png" width="900">
+</p>
 
-The withdrawal button is automatically displayed for eligible orders.
+The withdrawal button is automatically displayed for eligible WooCommerce orders.
 
 ---
 
 ## 2. Withdrawal request modal
 
-![Screenshot 2](assets/Screenshot-2.png)
+<p align="center">
+<img src="assets/screenshot-2.png" width="900">
+</p>
 
-Customers can select the products they want to withdraw before submitting the request.
+Customers can choose which products they wish to withdraw before submitting the request.
 
 ---
 
 ## 3. Customer confirmation email
 
-![Screenshot 3](assets/Screenshot-3.png)
+<p align="center">
+<img src="assets/screenshot-3.png" width="900">
+</p>
 
-Automatic confirmation email sent immediately after the request has been submitted.
+Automatic confirmation email sent immediately after the withdrawal request has been submitted.
 
 ---
 
 ## 4. Administrator notification
 
-![Screenshot 4](assets/Screenshot-4.png)
+<p align="center">
+<img src="assets/screenshot-4.png" width="900">
+</p>
 
-Store administrators receive a detailed notification containing customer information and selected products.
+The administrator receives a notification containing the customer details and selected products.
 
 ---
 
 ## 5. Manage withdrawal request
 
-![Screenshot 5](assets/Screenshot-5.png)
+<p align="center">
+<img src="assets/screenshot-5.png" width="900">
+</p>
 
-Withdrawal requests can be reviewed directly inside the WooCommerce order page.
+Withdrawal requests can be managed directly from the WooCommerce order page.
 
 ---
 
 ## 6. Withdrawal requests dashboard
 
-![Screenshot 6](assets/Screenshot-6.png)
+<p align="center">
+<img src="assets/screenshot-6.png" width="900">
+</p>
 
 Dedicated administration page for viewing and managing all withdrawal requests.
 
 ---
 
-# 🚀 Installation
+# Installation
 
 1. Upload the plugin to:
 
@@ -101,25 +134,13 @@ or install it from the WordPress Plugins screen.
 
 2. Activate the plugin.
 
-3. WooCommerce customers will automatically see the **Withdraw from Contract** button for eligible orders.
+3. The **Withdraw from Contract** button will automatically appear for eligible WooCommerce orders.
 
 No additional configuration is required.
 
 ---
 
-# 🌍 Translations
-
-The plugin is translation ready.
-
-Included languages:
-
-- 🇺🇸 English
-- 🇷🇴 Romanian
-- 🇪🇸 Spanish
-
----
-
-# ✔ Requirements
+# Requirements
 
 | Requirement | Version |
 |-------------|---------|
@@ -129,38 +150,69 @@ Included languages:
 
 ---
 
-# 🔒 Compatibility
+# Compatibility
 
-✔ WooCommerce HPOS
-
-✔ WooCommerce Email System
-
-✔ AJAX
-
-✔ Translation Ready
-
-✔ Responsive
+- ✅ WooCommerce HPOS
+- ✅ WooCommerce Email System
+- ✅ WooCommerce My Account
+- ✅ AJAX
+- ✅ Translation Ready
+- ✅ Responsive
 
 ---
 
-# 📄 License
+# Languages
 
-GPL v2 or later
+Included translations:
 
-This plugin is released under the GNU General Public License.
+- 🇺🇸 English
+- 🇷🇴 Romanian
+- 🇪🇸 Spanish
+
+The plugin is fully translation ready.
 
 ---
 
-# 🤝 Contributing
+# Roadmap
+
+### Version 1.1
+
+- Better filtering inside the withdrawal requests dashboard
+- Additional administrator actions
+- Improved email customization
+
+### Version 1.2
+
+- REST API support
+- Export withdrawal requests
+- Additional statistics
+
+---
+
+# Contributing
 
 Pull requests are welcome.
 
-For major changes, please open an issue first to discuss your ideas.
+If you have an idea for improving the plugin, please open an Issue before submitting a Pull Request.
 
 ---
 
-# ⭐ Support
+# License
 
-If you find this plugin useful, consider giving the repository a ⭐ on GitHub.
+This plugin is licensed under the **GNU General Public License v2.0 or later (GPL-2.0-or-later).**
 
-Feedback and suggestions are always welcome.
+---
+
+# Support
+
+If this plugin helps your business, please consider giving the repository a ⭐.
+
+Feedback, suggestions and contributions are always welcome.
+
+---
+
+<p align="center">
+
+Made with ❤️ for the WooCommerce community.
+
+</p>
