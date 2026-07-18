@@ -1,0 +1,308 @@
+# Copyright (C) 2026 Adrian Webdesign
+# This file is distributed under the GPL-2.0-or-later.
+msgid ""
+msgstr ""
+"Project-Id-Version: Consumer Withdrawal for WooCommerce 1.0.0\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/plugin/consumer-"
+"withdrawal-for-woocommerce\n"
+"POT-Creation-Date: 2026-07-16T14:45:48+00:00\n"
+"PO-Revision-Date: 2026-07-17 13:36+0300\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: es_ES\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 3.7\n"
+"X-Domain: consumer-withdrawal-for-woocommerce\n"
+
+#. Plugin Name of the plugin
+#: consumer-withdrawal-for-woocommerce.php
+msgid "Consumer Withdrawal for WooCommerce"
+msgstr "Desistimiento del consumidor para WooCommerce"
+
+#. Plugin URI of the plugin
+#: consumer-withdrawal-for-woocommerce.php
+msgid "https://wordpress.org/plugins/consumer-withdrawal-for-woocommerce/"
+msgstr ""
+
+#. Description of the plugin
+#: consumer-withdrawal-for-woocommerce.php
+msgid ""
+"Adds a consumer withdrawal request button to WooCommerce orders according to "
+"EU legislation."
+msgstr ""
+"Añade un botón de solicitud de desistimiento del consumidor a los pedidos de "
+"WooCommerce, de acuerdo con la legislación de la UE."
+
+#. Author of the plugin
+#: consumer-withdrawal-for-woocommerce.php
+msgid "Adrian Webdesign"
+msgstr ""
+
+#. Author URI of the plugin
+#: consumer-withdrawal-for-woocommerce.php
+msgid "https://adrianwebdesign.ro"
+msgstr ""
+
+#: consumer-withdrawal-for-woocommerce.php:88
+msgid ""
+"Consumer Withdrawal for WooCommerce requires WooCommerce to be installed and "
+"activated."
+msgstr ""
+"Consumer Withdrawal para WooCommerce requiere que WooCommerce esté instalado "
+"y activado."
+
+#: includes/admin/class-withdrawals-list-table.php:23
+msgid "Withdrawal"
+msgstr "Retiro"
+
+#: includes/admin/class-withdrawals-list-table.php:24
+msgid "Withdrawals"
+msgstr "Retiros"
+
+#: includes/admin/class-withdrawals-list-table.php:39
+msgid "Order"
+msgstr "Orden"
+
+#: includes/admin/class-withdrawals-list-table.php:40
+msgid "Customer"
+msgstr "Cliente"
+
+#: includes/admin/class-withdrawals-list-table.php:41
+msgid "Email"
+msgstr "Correo electrónico"
+
+#: includes/admin/class-withdrawals-list-table.php:42
+msgid "Requested"
+msgstr "Solicitada"
+
+#: includes/admin/class-withdrawals-list-table.php:43
+#: includes/class-admin.php:48
+msgid "Status"
+msgstr "Estado"
+
+#: includes/admin/class-withdrawals-list-table.php:44
+msgid "Action"
+msgstr "Acción"
+
+#: includes/admin/class-withdrawals-list-table.php:245
+#: includes/class-admin.php:57
+msgid "Pending"
+msgstr "Pendiente"
+
+#: includes/admin/class-withdrawals-list-table.php:246
+#: includes/class-admin.php:61
+msgid "Approved"
+msgstr "Aprobada"
+
+#: includes/admin/class-withdrawals-list-table.php:247
+#: includes/class-admin.php:65
+msgid "Rejected"
+msgstr "Rechazada"
+
+#: includes/admin/class-withdrawals-list-table.php:248
+#: includes/class-admin.php:69
+msgid "Completed"
+msgstr "Terminada"
+
+#: includes/admin/class-withdrawals-list-table.php:276
+msgid "View Order"
+msgstr "Ver pedido"
+
+#: includes/class-account.php:82
+#, php-format
+msgid "Withdrawal request submitted on %s."
+msgstr "Solicitud de retiro enviada el %s."
+
+#: includes/class-account.php:88
+msgid "Our team will contact you shortly."
+msgstr "Nuestro equipo se pondrá en contacto con usted en breve."
+
+#: includes/class-account.php:148
+msgid "Please select at least one product."
+msgstr "Por favor, seleccione al menos un producto."
+
+#: includes/class-account.php:153
+msgid "Unable to submit the withdrawal request."
+msgstr "No se puede enviar la solicitud de retiro."
+
+#: includes/class-account.php:158
+msgid "An unexpected error occurred."
+msgstr "Se ha producido un error inesperado."
+
+#: includes/class-account.php:163
+msgid "Your withdrawal request has been submitted successfully."
+msgstr "Su solicitud de retiro se ha enviado correctamente."
+
+#: includes/class-admin-page.php:35 includes/class-admin-page.php:36
+#: templates/admin/withdrawals.php:15
+msgid "Consumer Withdrawals"
+msgstr "Retiros de los consumidores"
+
+#: includes/class-admin.php:42 includes/class-settings-page.php:26
+#: includes/class-settings-page.php:42
+msgid "Consumer Withdrawal"
+msgstr "Desistimiento del consumidor"
+
+#: includes/class-admin.php:78
+msgid "Requested at"
+msgstr "Solicitado el"
+
+#: includes/class-admin.php:104
+msgid "Products"
+msgstr "Productos"
+
+#: includes/class-admin.php:126
+#, php-format
+msgid " (× %d)"
+msgstr " (× %d)"
+
+#: includes/class-email.php:78
+#, php-format
+msgid "New Withdrawal Request - Order #%d"
+msgstr "Nueva solicitud de retiro - Pedido #%d"
+
+#: includes/class-email.php:105
+msgid "Your withdrawal request has been received"
+msgstr "Se ha recibido su solicitud de retiro."
+
+#: includes/class-settings-page.php:44
+msgid "Configure the withdrawal request options."
+msgstr "Configure las opciones de la solicitud de retiro."
+
+#: includes/class-settings-page.php:49
+msgid "Enable Plugin"
+msgstr "Habilitar plugin"
+
+#: includes/class-settings-page.php:50
+msgid "Enable Consumer Withdrawal."
+msgstr "Habilitar el retiro del consumidor."
+
+#: includes/class-settings-page.php:57
+msgid "Withdrawal Period"
+msgstr "Periodo de retirada"
+
+#: includes/class-settings-page.php:58
+msgid "Number of days customers can request withdrawal."
+msgstr ""
+"Número de días durante los cuales los clientes pueden solicitar un retiro."
+
+#: includes/class-settings-page.php:69
+msgid "Administrator Email"
+msgstr "Correo electrónico del administrador"
+
+#: includes/class-settings-page.php:70
+msgid "Email address that receives withdrawal notifications."
+msgstr ""
+"Dirección de correo electrónico que recibe las notificaciones de retiro."
+
+#: includes/class-settings-page.php:77
+msgid "Enable Guest Requests"
+msgstr "Habilitar solicitudes de invitados"
+
+#: includes/class-settings-page.php:78
+msgid "Allow guest customers to submit withdrawal requests."
+msgstr "Permita que los clientes invitados envíen solicitudes de retiro."
+
+#: templates/admin/withdrawals.php:29
+msgid "Search"
+msgstr "Buscar"
+
+#: templates/emails/admin-notification.php:7
+msgid "New Withdrawal Request"
+msgstr "Nueva solicitud de retiro"
+
+#: templates/emails/admin-notification.php:13
+#: templates/emails/customer-confirmation.php:28
+#, php-format
+msgid "Order: #%d"
+msgstr "Orden: #%d"
+
+#: templates/emails/admin-notification.php:22
+msgid "Customer:"
+msgstr "Cliente:"
+
+#: templates/emails/admin-notification.php:30
+msgid "Email:"
+msgstr "Correo electrónico:"
+
+#: templates/emails/admin-notification.php:38
+#: templates/emails/customer-confirmation.php:36
+msgid "Request submitted on:"
+msgstr "Solicitud enviada el:"
+
+#: templates/emails/admin-notification.php:51
+msgid "Products requested for withdrawal"
+msgstr "Productos solicitados para su retirada"
+
+#: templates/emails/admin-notification.php:75
+#: templates/emails/customer-confirmation.php:76
+#: templates/withdraw-button.php:77
+#, php-format
+msgid " × %d"
+msgstr " × %d"
+
+#: templates/emails/admin-notification.php:96
+msgid "Open Order"
+msgstr "Pedido abierto"
+
+#: templates/emails/customer-confirmation.php:7
+msgid "Withdrawal Request Received"
+msgstr "Solicitud de retiro recibida"
+
+#: templates/emails/customer-confirmation.php:12
+#, php-format
+msgid "Hello %s,"
+msgstr "Hola %s,"
+
+#: templates/emails/customer-confirmation.php:19
+msgid "We have successfully received your withdrawal request."
+msgstr "Hemos recibido correctamente su solicitud de retiro."
+
+#: templates/emails/customer-confirmation.php:50
+msgid "Products included in your withdrawal request"
+msgstr "Productos incluidos en su solicitud de retiro"
+
+#: templates/emails/customer-confirmation.php:92
+msgid "Our team will review your request as soon as possible."
+msgstr "Nuestro equipo revisará su solicitud lo antes posible."
+
+#: templates/emails/customer-confirmation.php:99
+msgid ""
+"This email confirms that we have received your withdrawal request. Please "
+"keep it for your records."
+msgstr ""
+"Este correo electrónico confirma que hemos recibido su solicitud de retiro. "
+"Por favor, consérvelo para sus registros."
+
+#: templates/emails/customer-confirmation.php:106
+msgid "Thank you for shopping with us."
+msgstr "Gracias por comprar con nosotros."
+
+#: templates/withdraw-button.php:13
+msgid "Withdraw from Contract"
+msgstr "Desistir del contrato"
+
+#: templates/withdraw-button.php:29
+msgid "Withdrawal Request"
+msgstr "Solicitud de retiro"
+
+#: templates/withdraw-button.php:40
+msgid "Select the products you wish to withdraw from this order."
+msgstr "Seleccione los productos que desea retirar de este pedido."
+
+#: templates/withdraw-button.php:49
+msgid ""
+"All products are selected by default. Uncheck any products you wish to keep."
+msgstr ""
+"Todos los productos están seleccionados por defecto. Desmarque los productos "
+"que desee conservar."
+
+#: templates/withdraw-button.php:100
+msgid "Cancel"
+msgstr "Cancelar"
+
+#: templates/withdraw-button.php:111
+msgid "Submit Withdrawal Request"
+msgstr "Enviar solicitud de retiro"
